@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gith1t
-- 👀 I’m interested in DevSecOps
+- 👀 I’m interested in Cybersecurity
 - 🌱 I’m currently learning DevSecOps & Cloud Engineer | M.Sc. in Cybersecurity | AI Security Researcher
 - 💞️ I'm looking to collaborate on deploying
 - 📫 How to reach me www.linkedin.com/in/arsen-kudrya-8a394b88
