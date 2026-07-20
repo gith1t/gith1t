@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gith1t
-- 👀 I’m interested in DevOps Cybersek
+- 👀 I’m interested in DevSecOps
 - 🌱 I’m currently learning Bash Pyton
 - 💞️ I'm looking to collaborate on deploying
 - 📫 How to reach me www.linkedin.com/in/arsen-kudrya-8a394b88
